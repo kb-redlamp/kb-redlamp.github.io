@@ -8,10 +8,9 @@ background-color: #3362CC;
 .section {
   &.is-left {
     padding: 24px;
-    margin: 0 48px 0 0;
   }
   &.is-right {
-    padding: 16px;
+    padding: 24px;
     
   }
 }
@@ -22,6 +21,7 @@ background-color: #3362CC;
 }
 
 
+/*
 .profile-wrapper {
   position: relative;
   overflow: hidden;
@@ -37,6 +37,7 @@ background-color: #3362CC;
   height: 100%;
   object-fit: cover;
 }
+*/
 
 .content {
   font-family: 'Montserrat', sans-serif;
@@ -88,9 +89,9 @@ li {
 
 .info {
   &.is-left {
-    margin: 20px;
+    padding: 24px;
   }
   &.is-right {
-    margin: 20px;
+    padding: 24px;
   }
 }
