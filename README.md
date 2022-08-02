@@ -15,7 +15,7 @@
   <br>
   <a href="mailto:looneytune@gmail.com">Email: looneytune@gmail.com</a>
   ·
-  <a href="tel:+66864041568">Phone: +66 80 123 4567</a>
+  <a href="tel:+66864041568">Phone: +66 89 289 9289</a>
   ·
   <a href="https://looneytune.github.io/">Website: looneytune.github.io</a>
 </p>
