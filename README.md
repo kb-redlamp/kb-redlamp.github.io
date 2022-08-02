@@ -13,9 +13,9 @@
   <a href="https://looneytune.github.io/"><strong>Explore my works</strong></a>
   <br>
   <br>
-  <a href="mailto:looneytune@gmail.com">Email: looneytune.design@gmail.com</a>
+  <a href="mailto:looneytune@gmail.com">Email: looneytune@gmail.com</a>
   ·
-  <a href="tel:+66864041568">Phone: +66 80 440 4028</a>
+  <a href="tel:+66864041568">Phone: +66 80 123 4567</a>
   ·
   <a href="https://looneytune.github.io/">Website: looneytune.github.io</a>
 </p>
