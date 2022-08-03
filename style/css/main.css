@@ -51,23 +51,7 @@ h1 {
   color: #F3F3F3;
 }
 
-p {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.4;
-  color: #747C80;
-}
-
-ul {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.4;
-  color: #747C80;
-}
-
-li {
+.description-text {
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -87,4 +71,41 @@ li {
 }
 .info.is-right {
   padding: 24px;
+}
+
+.iconapp {
+  width: 36px;
+  height: 36px;
+  padding: 8px;
+}
+
+.skill {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+body {
+  background-color: #CCCCCC;
+  overflow: overlay;
+}
+body::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+body::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 3px;
+}
+body::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.6);
+}
+body::-webkit-scrollbar-track {
+  background: transparent;
+  border-radius: 3px;
+}
+
+.website-container {
+  max-width: 1280px;
+  margin: 0 auto;
 }/*# sourceMappingURL=main.css.map */
