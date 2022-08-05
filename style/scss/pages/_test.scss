@@ -8,7 +8,7 @@
 
   .cv-container {
     padding: 32px;
-    background-color: #3362CC;
+    background-image: linear-gradient(to right, #1252E0 , #407BFF);
     box-shadow: 0 0 16px rgba($color: #000000, $alpha: 0.16);
   }
 
@@ -24,7 +24,13 @@
   padding: 32px;
 }
 
-h1 {
+.title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.4;
+  background-image: linear-gradient(to right, #1252E0 , #407BFF);
+  color: #F3F3F3;
   padding: 0 0 0 16px;
 }
 
@@ -37,9 +43,53 @@ h1 {
 }
 
 .cv-text {
-    font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.4;
+
+  // Modifier classes
+  &.is-heading {
     font-weight: 600;
     font-size: 48px;
-    line-height: 1.4;
-    color: white;
+    // color: #FFFFFF;
   }
+
+  &.is-paragraph {
+    font-weight: 400;
+    font-size: 16px;
+    // color: #747C80;
+  }
+
+  &.is-color-white {
+    color: #FFFFFF;
+  }
+
+  &.is-color-gray {
+    color: #747C80;
+  }
+}
+
+.infomation {
+  background-color: #BCD2FD;
+  padding: 32px;
+  box-shadow: 0 0 16px rgba($color: #000000, $alpha: 0.16);
+}
+
+.card {
+  margin: 16px;
+}
+.card-text {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.4;
+  color: #747C80;
+}
+
+.description-typo {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.4;
+  color: white;
+}
+
