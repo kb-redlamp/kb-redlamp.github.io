@@ -13,5 +13,5 @@
   <a href="https://looneytune.github.io/"><strong>Explore my works</strong></a>
   <br>
   <br>
-  <a href="https://looneytune.github.io/">Website: looneytune.github.io</a>
+  <a href="https://looneytune.github.io/">Website: kb-redlamp.github.io</a>
 </p>
