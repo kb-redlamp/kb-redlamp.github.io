@@ -10,8 +10,8 @@
 <p align="center">
   I'm a UX/UI design
   <br>
-  <a href="https://looneytune.github.io/"><strong>Explore my works</strong></a>
+  <a href="https://kb-redlamp.github.io/"><strong>Explore my works</strong></a>
   <br>
   <br>
-  <a href="https://looneytune.github.io/">Website: kb-redlamp.github.io</a>
+  <a href="https://kb-redlamp.github.io/">Website: kb-redlamp.github.io</a>
 </p>
