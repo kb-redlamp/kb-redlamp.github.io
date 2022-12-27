@@ -1,6 +1,6 @@
-# looney.github.io
+# kb-redlamp.github.io
 <p align="center">
-  <a href="https://looneytune.github.io/">
+  <a href="https://kb-redlamp.github.io/">
     <img src="https://i.imgur.com/yhaXA8j.png" alt="Bootstrap logo" width="356" height="278">
   </a>
 </p>
